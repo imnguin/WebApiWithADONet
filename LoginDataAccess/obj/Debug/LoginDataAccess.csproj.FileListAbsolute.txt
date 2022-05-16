@@ -1,0 +1,10 @@
+C:\Project\LoginServices\LoginDataAccess\bin\Debug\LoginDataAccess.dll.config
+C:\Project\LoginServices\LoginDataAccess\bin\Debug\LoginDataAccess.dll
+C:\Project\LoginServices\LoginDataAccess\bin\Debug\LoginDataAccess.pdb
+C:\Project\LoginServices\LoginDataAccess\bin\Debug\EntityFramework.dll
+C:\Project\LoginServices\LoginDataAccess\bin\Debug\EntityFramework.xml
+C:\Project\LoginServices\LoginDataAccess\obj\Debug\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Project\LoginServices\LoginDataAccess\obj\Debug\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Project\LoginServices\LoginDataAccess\obj\Debug\LoginDataAccess.csproj.CopyComplete
+C:\Project\LoginServices\LoginDataAccess\obj\Debug\LoginDataAccess.dll
+C:\Project\LoginServices\LoginDataAccess\obj\Debug\LoginDataAccess.pdb
